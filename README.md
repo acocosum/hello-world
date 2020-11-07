@@ -1,2 +1,3 @@
 # hello-world
-Just another repositiory.
+Just another repository.
+I come from China.
